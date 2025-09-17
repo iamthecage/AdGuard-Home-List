@@ -1,3 +1,10 @@
 # Debian
 @@||debian.pool.ntp.org^$important
 @@||security.debian.org^$important
+@@||storage.googleapis.com^$important
+@@||apt.kitware.com^$important
+@@||repo.radeon.com^$important
+@@||us.archive.ubuntu.com^$important
+@@||security.ubuntu.com^$important
+@@||archive.ubuntu.com^$important
+@@||packages.microsoft.com^$important
